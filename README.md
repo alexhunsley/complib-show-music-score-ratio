@@ -1,6 +1,6 @@
 # Complib music ratio display
 
-This is a Userscripts plugin for making Complib show a *music ratio* next to the Music score.
+This is a Userscripts plugin for making [Complib](https://complib.org) show a *music ratio* next to the Music score.
 
 Music ratio is just the average music score per row (think of it as 'bang for your buck'):
 
@@ -28,13 +28,13 @@ Note: if you sort results by something other than MusicScore, no ratio will appe
 
 # Installation
 
-First you must install the Userscripts helper for whatever browser you run. 
+1. Install the Userscripts helper for whatever browser you run. 
 
-Then you must install the plugin by copying the `complib-add-music-ratio.js` to the appropriate folder on your machine (the Userscripts helper will detail where).
+2. Install the plugin by copying the file `complib-add-music-ratio.js` to the appropriate folder on your machine (the Userscripts helper will detail where).
 
 ## Installation example: Mac OS
 
 1. Searching for 'userscripts' in the App Store and install it.
 
-2. Download the file `complib-add-music-ratio.js` from this repo and place it in `~/Library/Containers/com.userscripts.macos.Userscripts-Extension/Data/Documents/scripts`.
+2. Copy `complib-add-music-ratio.js` to folder `~/Library/Containers/com.userscripts.macos.Userscripts-Extension/Data/Documents/scripts`.
 
