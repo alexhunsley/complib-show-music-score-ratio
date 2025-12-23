@@ -43,5 +43,5 @@ If you click the Music header we toggle back to sorting by music score (but the 
 ## Afterthoughts
 
 * tested on Mac OS Safari
-* not sure of feasibility on running on mobile
+* not sure of feasibility of running on mobile
 
