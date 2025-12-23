@@ -16,7 +16,7 @@ Here's some complib search results without the plugin (sorted by MusicScore):
 
 ![Complib screenshot without plugin showing just the usual Music score](images/complib_default.png)
 
-With the plugin installed, when sorting by MusicScore, the Music column shows (and sorts) the ratio; the music score is now shown in brackets:
+With the plugin installed, when sorting by MusicScore, the Music column shows (and sorts by) the ratio; the music score is now shown in brackets:
 
 ![Complib screenshot without plugin showing just the usual Music score](images/complib_music_ratio_plugin_sorted_by_ratio.png)
 
