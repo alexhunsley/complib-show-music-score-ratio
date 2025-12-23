@@ -40,3 +40,8 @@ If you click the Music header we toggle back to sorting by music score (but the 
 
 3. If asked, give permission for the userscripts plugin to access the site `complib.org`
 
+## Afterthoughts
+
+* tested on Mac OS Safari
+* not sure of feasibility on running on mobile
+
