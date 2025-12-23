@@ -38,3 +38,5 @@ If you click the Music header we toggle back to sorting by music score (but the 
 
 2. Copy `complib-add-music-ratio.js` to folder `~/Library/Containers/com.userscripts.macos.Userscripts-Extension/Data/Documents/scripts`.
 
+3. If asked, give permission for the userscripts plugin to access the site `complib.org`
+
