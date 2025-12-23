@@ -20,11 +20,11 @@ With the plugin installed, when sorting by MusicScore, the Music column shows (a
 
 ![Complib screenshot without plugin showing just the usual Music score](images/complib_music_ratio_plugin_sorted_by_ratio.png)
 
-If you click the Music header, we toggle back to sorting by music score, (but the music ratio is still shown in brackets):
+If you click the Music header we toggle back to sorting by music score (but the music ratio is still shown in brackets):
 
 ![Complib screenshot without plugin showing just the usual Music score](images/complib_music_ratio_plugin_sorted_by_music_score.png)
 
-Note: if you sort results by something other than MusicScore, no ratio will appear on the page.
+**Note:** if you sort results by something other than MusicScore, no ratio will appear on the page.
 
 # Installation
 
