@@ -26,6 +26,10 @@ If you click the Music header we toggle back to sorting by music score (but the 
 
 **Note:** if you sort results by something other than MusicScore, no ratio will appear on the page.
 
+# Sweet spot
+
+I find the music ratio most helper when viewing touches (as they tend to have the most variation in music ratios). For longer lengths music ratios converge more to similar values.
+
 # Installation
 
 1. Install the Userscripts helper for whatever browser you run. 
