@@ -28,13 +28,18 @@ If you click the Music header we toggle back to sorting by music score (but the 
 
 # Sweet spot
 
-I find the music ratio most helper when viewing touches (as they tend to have the most variation in music ratios). For longer lengths music ratios converge more to similar values.
+I find the music ratio most helpful when viewing touches (as they tend to have the most variation in music ratios). For longer lengths like peals, music ratios tend to converge.
 
 # Installation
+Install a Userscripts manager for whatever platform you are on. See https://en.wikipedia.org/wiki/Userscript.
 
-1. Install the Userscripts helper for whatever browser you run. 
+For example:
 
-2. Install the plugin by copying the file `complib-add-music-ratio.js` to the appropriate folder on your machine (the Userscripts helper will detail where).
+- Violentmonkey (Firefox, Chrome, Edge, Safari)
+- Tampermonkey (Chrome, Firefox, Edge)
+- Userscripts (Safari on macOS)
+
+Then install the plugin by copying the file `complib-add-music-ratio.js` to the appropriate folder on your machine (the Userscripts helper will detail where).
 
 ## Installation example: Mac OS
 
